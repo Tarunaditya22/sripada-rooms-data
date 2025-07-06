@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "BOOK1751813110946",
+    "name": "Sairam",
+    "phone": "+919989898444",
+    "arrivalDate": "2025-07-06",
+    "arrivalTime": "20:15",
+    "departureDate": "2025-07-09",
+    "departureTime": "20:15",
+    "days": "4",
+    "noOfRooms": "1",
+    "totalCharges": "1000",
+    "roomType": "ac",
+    "paymentMethod": "GPay",
+    "paymentType": "Full Payment",
+    "paymentStatus": "Completed",
+    "advanceAmountNow": "0",
+    "remainingAmount": "0",
+    "advanceAlreadyPaid": "0",
+    "remainingBeingPaid": "0",
+    "aadharNumber": "123456789",
+    "photo": null,
+    "date": "6/7/2025, 8:15:10 pm",
+    "submittedBy": "owner"
+  }
+]
