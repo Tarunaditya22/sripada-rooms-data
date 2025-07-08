@@ -94,5 +94,29 @@
     "photo": null,
     "date": "7/7/2025, 5:13:26 pm",
     "submittedBy": "owner"
+  },
+  {
+    "id": "BOOK1751942186241",
+    "name": "",
+    "phone": "",
+    "arrivalDate": "",
+    "arrivalTime": "",
+    "departureDate": "",
+    "departureTime": "",
+    "days": "",
+    "noOfRooms": "",
+    "totalCharges": "1000",
+    "roomType": "",
+    "paymentMethod": "",
+    "paymentType": "",
+    "paymentStatus": "",
+    "advanceAmountNow": "0",
+    "remainingAmount": "0",
+    "advanceAlreadyPaid": "0",
+    "remainingBeingPaid": "0",
+    "aadharNumber": "",
+    "photo": null,
+    "date": "08/07/2025, 08:06:26",
+    "submittedBy": "owner"
   }
 ]
