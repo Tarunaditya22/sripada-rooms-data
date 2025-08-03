@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "BOOK1754146318761",
+    "name": "NIKITHA CHAITANYA JADHAV",
+    "phone": "90004918734",
+    "arrivalDate": "2025-08-01",
+    "arrivalTime": "08:00",
+    "departureDate": "2025-08-02",
+    "departureTime": "08:00",
+    "days": "1",
+    "noOfRooms": "1",
+    "totalCharges": "1300",
+    "roomType": "ac",
+    "paymentMethod": "Cash",
+    "paymentType": "Full Payment",
+    "paymentStatus": "Completed",
+    "advanceAmountNow": "0",
+    "remainingAmount": "0",
+    "advanceAlreadyPaid": "0",
+    "remainingBeingPaid": "0",
+    "aadharNumber": "940383979429",
+    "photo": null,
+    "date": "2/8/2025, 8:21:58 pm",
+    "submittedBy": "manager"
+  }
+]
