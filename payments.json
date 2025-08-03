@@ -22,5 +22,29 @@
     "photo": null,
     "date": "2/8/2025, 8:21:58 pm",
     "submittedBy": "manager"
+  },
+  {
+    "id": "BOOK1754146520262",
+    "name": "AMIRAPU SUMANTH",
+    "phone": "9845369597",
+    "arrivalDate": "2025-08-02",
+    "arrivalTime": "15:30",
+    "departureDate": "2025-08-03",
+    "departureTime": "09:00",
+    "days": "1",
+    "noOfRooms": "1",
+    "totalCharges": "1300",
+    "roomType": "ac",
+    "paymentMethod": "Cash",
+    "paymentType": "Full Payment",
+    "paymentStatus": "Completed",
+    "advanceAmountNow": "0",
+    "remainingAmount": "0",
+    "advanceAlreadyPaid": "0",
+    "remainingBeingPaid": "0",
+    "aadharNumber": "511436708861",
+    "photo": null,
+    "date": "2/8/2025, 8:25:20 pm",
+    "submittedBy": "manager"
   }
 ]
